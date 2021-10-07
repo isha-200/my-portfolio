@@ -1,0 +1,222 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+    background-color: white;
+    border-bottom: 10px solid rgb(236, 76, 108);
+    box-shadow: 3px 0px 5px;
+    text-align: center;
+    padding: 1px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+.hlo{
+    background-color: crimson;
+}
+ul li{
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 30px 40px;
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+}
+ul li :hover{
+    color: #37f;
+}
+
+.heading h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    color: #FFFF;
+    font-family: sans-serif;
+    
+}
+
+.para{
+    background-color: #FFFF;
+    margin-top: 6em;
+    height: 300px;
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    
+}
+.pineapple{
+    height: 170px;
+    width: 170px;
+    float: left;
+    margin-top: 4em;
+    margin-left: 3em;
+    border-radius: 50%;
+    margin-right: 3em;
+    border: 2px solid black;
+}
+.float{
+    margin-top: 5em;
+    margin-right: 2em;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.icons{
+   display: flex;
+   justify-content: center;
+   align-self: center;
+   margin-top: 5em;
+}
+.whats{
+    height: 30px;
+    margin: 2em;
+}
+.linked{
+    height: 30px;
+    background-color: white;
+    margin:2em;
+}
+.git{
+    height: 30px;
+    background-color: white;
+    margin: 2em;
+}
+.insta{
+    height: 30px;
+    margin: 2em;
+}
+.project{
+    background-color:white;
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
+    height: 700px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+
+}
+.image{
+    height: 200px;
+    width: 300px;
+    margin-top: 2em;
+    padding: 3em;
+}
+.skill{
+    background-color: white;
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
+    height: 700px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.contain{
+    width: 90%;
+    background-color: #ddd;
+}
+.margin{
+    margin-left: 1em;
+    margin-bottom: 1em;
+    font-family: sans-serif;
+}
+.html{
+    width: 90%;
+    background-color:  #04AA6D;
+}
+.css{
+    width: 90%;
+    background-color: #2196F3;
+}
+.mongo{
+    width: 90%;
+    background-color: #f44336;
+}
+.word{
+    width: 80%;
+    background-color: turquoise;
+}
+.graphic{
+    width: 60%;
+    background-color: violet;
+}
+.java{
+    width: 40%;
+    background-color: #808080;
+}
+.skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    margin-bottom: 2em;
+}
+.contact{
+    background-color: white;
+    height: 700px;
+    margin-top: 4em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.form{
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 15em;
+    margin-right: 15em;
+    margin-top: 3em;
+  
+}
+input[type=text], select , textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px , solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+   
+}
+
+input[type=submit]{
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    
+}
+input[type=submit]:hover{
+    background-color: #45a049;
+}
+#msg{
+    height: 170px;
+}
+
+
+
+
